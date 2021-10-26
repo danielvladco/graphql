@@ -1,4 +1,4 @@
-module github.com/nautilus/graphql
+module github.com/danielvladco/graphql
 
 require (
 	github.com/graph-gophers/dataloader v5.0.0+incompatible
